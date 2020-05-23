@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://ciara-trainer.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ciara, adiestradora de perros 🐶🐕 en Gran Canaria"
 theme = "raditian"
 
 
