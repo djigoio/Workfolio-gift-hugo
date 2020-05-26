@@ -1,9 +1,13 @@
 # showcase
 showcase:
   enable: true
-  title: "Hola, soy Ciara."
-  subtitle: "Adiestro y aconsejo sobre perros"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  title: "¡Bienvenid@! Mi nombre es Ciara."
+  subtitle: "antes que nada quiero preguntarte algo..."
+  description: "
+    ¿Estás buscando lo mejor para tu perro?
+    ¿Tiene alguna conducta que no sea de tu agrado?
+    ¿Quieres enseñarle convivencia básica dentro de casa y en la calle?
+    ¡Has llegado al lugar adecuado!"
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -49,17 +53,23 @@ showcase:
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "Tipos de perro a los que suedo ayudar."
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
-    </p>
+    Radiactivos: Perros con miedo que tienden a la agresividad.
+        <p class="lead"> 
+Desobedientes: No mantienen un vínculo contigo y por lo general te ignoran.    </p>
+
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
-    </p>'
+Cachorros: Socialización temprana, convivencia en casa, obediencia básica.    </p>
+
+    <p class="lead">
+Destructivos: Muerden objetos y muebles en casa.    </p>
+
+    <p class="lead">
+Agresivos o territoriales: Odian las visitas, defienden demasiado tu hogar.
+    </p>
+<p class="lead">
+Y más...    </p>'
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
